@@ -1,2 +1,4 @@
 # linux_dotfiles
-Linux configurations
+Linux configuration files for me!
+
+##
